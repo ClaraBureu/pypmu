@@ -1,0 +1,277 @@
+[
+    {
+        "time": "2024-04-26 16:10:11",
+        "stream_id": "R.OESTE",
+        "frequency": 50.05004705810547
+    },
+    {
+        "time": "2024-04-26 16:10:11",
+        "stream_id": "EZEIZA",
+        "frequency": 50.05004747390747
+    },
+    {
+        "time": "2024-04-26 16:10:11",
+        "stream_id": "RDIAMANTE",
+        "frequency": 50.05009242630005
+    },
+    {
+        "time": "2024-04-26 16:10:11",
+        "stream_id": "SGDARG",
+        "frequency": 50.05004748916626
+    },
+    {
+        "time": "2024-04-26 16:10:11",
+        "stream_id": "CH.PAGUI",
+        "frequency": 50.05004810333252
+    },
+    {
+        "time": "2024-04-26 16:10:12",
+        "stream_id": "R.OESTE",
+        "frequency": 50.05004815292359
+    },
+    {
+        "time": "2024-04-26 16:10:12",
+        "stream_id": "EZEIZA",
+        "frequency": 50.050048347473144
+    },
+    {
+        "time": "2024-04-26 16:10:12",
+        "stream_id": "RDIAMANTE",
+        "frequency": 50.050017223358154
+    },
+    {
+        "time": "2024-04-26 16:10:12",
+        "stream_id": "SGDARG",
+        "frequency": 50.050048282623294
+    },
+    {
+        "time": "2024-04-26 16:10:12",
+        "stream_id": "CH.PAGUI",
+        "frequency": 50.05004785919189
+    },
+    {
+        "time": "2024-04-26 16:10:13",
+        "stream_id": "R.OESTE",
+        "frequency": 50.05004891204834
+    },
+    {
+        "time": "2024-04-26 16:10:13",
+        "stream_id": "EZEIZA",
+        "frequency": 50.0
+    },
+    {
+        "time": "2024-04-26 16:10:13",
+        "stream_id": "RDIAMANTE",
+        "frequency": 50.050052436828615
+    },
+    {
+        "time": "2024-04-26 16:10:13",
+        "stream_id": "SGDARG",
+        "frequency": 50.05004940414429
+    },
+    {
+        "time": "2024-04-26 16:10:13",
+        "stream_id": "CH.PAGUI",
+        "frequency": 50.05004948425293
+    },
+    {
+        "time": "2024-04-26 16:10:14",
+        "stream_id": "R.OESTE",
+        "frequency": 50.050052318572995
+    },
+    {
+        "time": "2024-04-26 16:10:14",
+        "stream_id": "EZEIZA",
+        "frequency": 50.050052558898926
+    },
+    {
+        "time": "2024-04-26 16:10:14",
+        "stream_id": "RDIAMANTE",
+        "frequency": 50.05004066085815
+    },
+    {
+        "time": "2024-04-26 16:10:14",
+        "stream_id": "SGDARG",
+        "frequency": 50.05005239868164
+    },
+    {
+        "time": "2024-04-26 16:10:14",
+        "stream_id": "CH.PAGUI",
+        "frequency": 50.05005230331421
+    },
+    {
+        "time": "2024-04-26 16:10:15",
+        "stream_id": "R.OESTE",
+        "frequency": 50.050054782867434
+    },
+    {
+        "time": "2024-04-26 16:10:15",
+        "stream_id": "EZEIZA",
+        "frequency": 50.050054889678954
+    },
+    {
+        "time": "2024-04-26 16:10:15",
+        "stream_id": "RDIAMANTE",
+        "frequency": 50.05007657623291
+    },
+    {
+        "time": "2024-04-26 16:10:15",
+        "stream_id": "SGDARG",
+        "frequency": 50.050054355621334
+    },
+    {
+        "time": "2024-04-26 16:10:15",
+        "stream_id": "CH.PAGUI",
+        "frequency": 50.05005481338501
+    },
+    {
+        "time": "2024-04-26 16:10:16",
+        "stream_id": "R.OESTE",
+        "frequency": 50.05005796432495
+    },
+    {
+        "time": "2024-04-26 16:10:16",
+        "stream_id": "EZEIZA",
+        "frequency": 50.05005685043335
+    },
+    {
+        "time": "2024-04-26 16:10:16",
+        "stream_id": "RDIAMANTE",
+        "frequency": 50.05006092453003
+    },
+    {
+        "time": "2024-04-26 16:10:16",
+        "stream_id": "SGDARG",
+        "frequency": 50.05005732727051
+    },
+    {
+        "time": "2024-04-26 16:10:16",
+        "stream_id": "CH.PAGUI",
+        "frequency": 50.0500566482544
+    },
+    {
+        "time": "2024-04-26 16:10:17",
+        "stream_id": "R.OESTE",
+        "frequency": 50.050059020996095
+    },
+    {
+        "time": "2024-04-26 16:10:17",
+        "stream_id": "EZEIZA",
+        "frequency": 50.050059391021726
+    },
+    {
+        "time": "2024-04-26 16:10:17",
+        "stream_id": "RDIAMANTE",
+        "frequency": 50.05002628326416
+    },
+    {
+        "time": "2024-04-26 16:10:17",
+        "stream_id": "SGDARG",
+        "frequency": 50.05005924987793
+    },
+    {
+        "time": "2024-04-26 16:10:17",
+        "stream_id": "CH.PAGUI",
+        "frequency": 50.05006034851074
+    },
+    {
+        "time": "2024-04-26 16:10:18",
+        "stream_id": "R.OESTE",
+        "frequency": 50.05006083679199
+    },
+    {
+        "time": "2024-04-26 16:10:18",
+        "stream_id": "EZEIZA",
+        "frequency": 50.05005974960327
+    },
+    {
+        "time": "2024-04-26 16:10:18",
+        "stream_id": "RDIAMANTE",
+        "frequency": 50.05006731796264
+    },
+    {
+        "time": "2024-04-26 16:10:18",
+        "stream_id": "SGDARG",
+        "frequency": 50.05006050872803
+    },
+    {
+        "time": "2024-04-26 16:10:18",
+        "stream_id": "CH.PAGUI",
+        "frequency": 50.050059062957764
+    },
+    {
+        "time": "2024-04-26 16:10:19",
+        "stream_id": "R.OESTE",
+        "frequency": 50.05005854415894
+    },
+    {
+        "time": "2024-04-26 16:10:19",
+        "stream_id": "EZEIZA",
+        "frequency": 50.050058528900145
+    },
+    {
+        "time": "2024-04-26 16:10:19",
+        "stream_id": "RDIAMANTE",
+        "frequency": 50.050062149047854
+    },
+    {
+        "time": "2024-04-26 16:10:19",
+        "stream_id": "SGDARG",
+        "frequency": 50.05005826950073
+    },
+    {
+        "time": "2024-04-26 16:10:19",
+        "stream_id": "CH.PAGUI",
+        "frequency": 50.050059597015384
+    },
+    {
+        "time": "2024-04-26 16:10:20",
+        "stream_id": "R.OESTE",
+        "frequency": 50.050057006835935
+    },
+    {
+        "time": "2024-04-26 16:10:20",
+        "stream_id": "EZEIZA",
+        "frequency": 50.050056884765624
+    },
+    {
+        "time": "2024-04-26 16:10:20",
+        "stream_id": "RDIAMANTE",
+        "frequency": 50.050030590057375
+    },
+    {
+        "time": "2024-04-26 16:10:20",
+        "stream_id": "SGDARG",
+        "frequency": 50.050056552886964
+    },
+    {
+        "time": "2024-04-26 16:10:20",
+        "stream_id": "CH.PAGUI",
+        "frequency": 50.05005676269531
+    },
+    {
+        "time": "2024-04-26 16:10:21",
+        "stream_id": "R.OESTE",
+        "frequency": 50.050055934906005
+    },
+    {
+        "time": "2024-04-26 16:10:21",
+        "stream_id": "EZEIZA",
+        "frequency": 50.050056060791015
+    },
+    {
+        "time": "2024-04-26 16:10:21",
+        "stream_id": "RDIAMANTE",
+        "frequency": 50.050105121612546
+    },
+    {
+        "time": "2024-04-26 16:10:21",
+        "stream_id": "SGDARG",
+        "frequency": 50.050055835723875
+    },
+    {
+        "time": "2024-04-26 16:10:21",
+        "stream_id": "CH.PAGUI",
+        "frequency": 50.050055297851564
+    }
+]
